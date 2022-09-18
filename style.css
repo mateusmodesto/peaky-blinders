@@ -29,7 +29,7 @@ body{
     background-image: url(imagens/PeakyBlinders.jpg);
     background-attachment: fixed;
     background-size: cover;
-    background-position: top;
+    background-position: top center;
 }
 
 header{
