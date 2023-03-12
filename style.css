@@ -25,6 +25,10 @@
     
 }
 
+nav{
+    text-align: center;
+}
+
 body{
     background-image: url(imagens/PeakyBlinders.jpg);
     background-attachment: fixed;
@@ -78,6 +82,8 @@ main{
     min-width: 300px;
     max-width: 950px;
     padding: 15px;
+    border-radius: 1%;
+    box-shadow: inset 0px 0px 56px rgb(97, 84, 86);
 }
 main h1{
     font-size: 2em;
